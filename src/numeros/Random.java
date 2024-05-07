@@ -9,6 +9,6 @@ public class Random {
     public static Double numeroDouble(Double numeroMin, Double numeroMax, int numeroDecimales){
         double diferencia = numeroMax - numeroMin;
         return (double) Math.round((Math.random() * diferencia + numeroMin) * Math.pow(10, numeroDecimales)) / Math.pow(10, numeroDecimales);
-a
+
     }
 }
