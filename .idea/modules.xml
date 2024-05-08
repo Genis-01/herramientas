@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/herramientas.iml" filepath="$PROJECT_DIR$/herramientas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLibreria.iml" filepath="$PROJECT_DIR$/JavaLibreria.iml" />
     </modules>
   </component>
 </project>
